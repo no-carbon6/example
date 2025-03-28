@@ -1,2 +1,2 @@
 # example
-Jus
+Just a example.
